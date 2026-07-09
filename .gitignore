@@ -1,0 +1,13 @@
+# Python
+backend/.env
+backend/db.sqlite3
+backend/media/
+backend/**/__pycache__/
+*.pyc
+
+# Next.js
+frontend/ai-csv-importer/.next/
+frontend/ai-csv-importer/node_modules/
+
+# General
+.env
