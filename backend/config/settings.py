@@ -138,7 +138,6 @@ import os
 load_dotenv()
 
 GEMINI_API_KEY= os.getenv("GEMINI_API_KEY")
-
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
+    "https://ai-csv-importer-project-40hiq7dms-sathiyas-projects-faaa2d4d.vercel.app",
 ]
